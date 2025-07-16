@@ -7,6 +7,8 @@ public class Login
 	{
 		System.out.println("Username");
 		System.out.println("Password");
+		System.out.println("click on submit button");
+
      }
 
 }
